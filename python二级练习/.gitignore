@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Large or temporary files
+*.zip
+*.rar
+*.7z
+*.exe
+*.tmp
+*.log
+
+# Secrets
+.env
+*.key
+*.pem
